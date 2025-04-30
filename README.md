@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FocmwwMmpna2w2YzFwMXZrOGhzejByNDZ6ZHIycnowa296Y285aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26vaTNUAnJOP1xalq/giphy.gif" alt="Centered GIF">
+    <img src="https://media1.tenor.com/m/KD8WIZgmYJ0AAAAC/hibike-euphonium-kumiko-oumae.gif" alt="Centered GIF">
 </p>
 
 <h1 align="center" style="border-bottom: none;">a Techno-Nusantaran and devout KyoAni's zealot
